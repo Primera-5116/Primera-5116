@@ -11,9 +11,10 @@
 └─$ cat profile.json
 {
   "name"     : "Primera-5116",
-  "ja"       : "普通のプログラマ",
-  "en"       : "Researcher @ Theory of Machine Learning Lab",
-  "interests": ["machine learning", "theory", "implementation"]
+  "role"     : "普通のプログラマ",
+  "affil"    : "Researcher @ Theory of Machine Learning Lab",
+  "interests": ["driving", "car modding", "ordinary magician"],
+  "research" : ["machine learning", "theory", "implementation"]
 }
 ```
 

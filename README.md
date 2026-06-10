@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&duration=3000&pause=1000&color=D4A040&center=true&vCenter=true&width=600&lines=%E2%9C%A6+whoami+%E2%9C%A6;an+ordinary+programmer;Researcher+%40+Theory+of+ML+Lab;Hello%2C+Internet-+%E2%98%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&duration=3000&pause=1000&color=D4A040&center=true&vCenter=true&width=600&lines=%E2%9C%A6+whoami+%E2%9C%A6;an+ordinary+programmer;Hello%2C+Internet-+%E2%98%85" alt="Typing SVG" />
 
 </div>
 
@@ -11,6 +11,7 @@
 └─$ cat profile.json
 {
   "name"     : "Primera-5116",
+  "call_me"  : "プリメラ",
   "role"     : "普通のプログラマ",
   "affil"    : "Researcher @ Theory of Machine Learning Lab",
   "interests": ["driving", "car modding", "ordinary magician"],

@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Primera-5116&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" />
+<img src="https://github-readme-stats.vercel.app/api?username=Primera-5116&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41&count_private=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primera-5116&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
 

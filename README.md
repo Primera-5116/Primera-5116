@@ -41,8 +41,8 @@
 
 <img src="https://streak-stats.demolab.com?user=Primera-5116&hide_border=true&background=0d1117&ring=D4A040&fire=D4A040&currStreakLabel=D4A040&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=D4A040&sideNums=D4A040" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Primera-5116&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4A040&icon_color=D4A040&text_color=c9d1d9&ring_color=D4A040&count_private=true" />
+<img src="https://github-readme-stats-one-iota-yfu09zxmg6.vercel.app/api?username=Primera-5116&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4A040&icon_color=D4A040&text_color=c9d1d9&ring_color=D4A040&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primera-5116&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4A040&text_color=c9d1d9" />
+<img src="https://github-readme-stats-one-iota-yfu09zxmg6.vercel.app/api/top-langs/?username=Primera-5116&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4A040&text_color=c9d1d9" />
 
 </div>
